@@ -1,3 +1,7 @@
 # contained-python
 
-This is a simple Python/Flask 'Hello World' app created for workshop examples.
+New python app using Python/Flask to display my top 3 favourite countries (besides Brazil):
+-> Vietnam
+-> Spain
+-> Chile
+
